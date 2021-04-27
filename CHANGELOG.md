@@ -27,6 +27,7 @@ mPDF 8.0.x
 * Cache now creates a dedicated subdirectory `/mpdf`.
 * It is possible to disable automatic cache cleanup with `cacheCleanupInterval` config variable
 * PHP 8.0 is supported since 8.0.10 (#1263)
+* Set default language using `/Lang` entry
 
 mPDF 8.0.0
 ===========================
