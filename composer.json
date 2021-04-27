@@ -1,6 +1,6 @@
 {
 
-	"name": "mpdf/mpdf",
+	"name": "cuongmits/mpdf",
 	"type": "library",
 
 	"description": "PHP library generating PDF files from UTF-8 encoded HTML",
@@ -23,8 +23,8 @@
 
 	"support": {
 
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"issues": "https://github.com/cuongmits/mpdf/issues",
+		"source": "https://github.com/cuongmits/mpdf",
 		"docs": "http://mpdf.github.io"
 
 	},
